@@ -8,27 +8,24 @@
 
 <h1 align="center">👾 I'm Hex7, DFIR engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px></img></h1>
 
- <div id="thm" align="center">
+ <div id="linkedin" align="center">
     <a href="https://www.linkedin.com/in/patryklabuz/">
-         <img src="https://tryhackme-badges.s3.amazonaws.com/worldedit.png" alt="TryHackMe">
+         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
 </div>
 
-<div id="badge" align="center">
-    <a href="https://www.linkedin.com/in/patryklabuz/">
-        <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+<div id="thm" align="center">
+    <a href="https://tryhackme.com/r/p/hex7">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/hex7.png" alt="Your Image Badge" />
     </a>
 </div>
- 
- 
 
- 
- 
- 
+
+  
 ```java
 const info = {
     current_position: {
-        Cyber Threat Analyst : ING Hubs Poland
+        Insider Threat Analyst : Motorola Solutions
     }
     skills: {
         IncidentResponse: [incindent handling, impact analysis, mitigation techniques, SIEM/EDR],
@@ -44,14 +41,14 @@ const info = {
         CompTIA Security + (SY0-601),
         arcX Cyber Threat Intelligence 101
     }
-    2024_goal: {
+    2025_goal: {
         EC-Council Computer Forensics Hacking Investigator(CHFI)
     }
     education{
         Bachelor of Engineering in Data Engineering
     }
 };
-😪 In loving memory of my father @saldi [https://github.com/saldi]
+😪 In loving memory of my father @saldi[https://github.com/saldi]
 ```
   
 <p align="center"> 
